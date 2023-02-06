@@ -44,7 +44,7 @@
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center -5">
-        <img src="<?= base_url() ?>/assets/img/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Paimon" width="200" class="rounded-circle img-thumbnail border-5 rounded-circle" />
+        <img src="https://goodsrepublic.com/media/binary/004/092/290/4092290.jpg.l_thumbnail.webp" alt="Paimon" width="200" class="rounded-circle img-thumbnail border-5 rounded-circle" />
         <h1 class="display-4">Hello,welcome to Isekai Rasturant</h1>
         <p class="lead">Best Food Grade | Good to Go</p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -88,7 +88,7 @@
             <div class="row justify-content-center">
                 <div class="row col-md mb-3 justify-content-center">
                     <div class="card" style="width: 18rem">
-                        <img src="<?= base_url() ?>/assets/img/1.jpg" class="card-img-top" alt="Status 1" />
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -96,7 +96,7 @@
                 </div>
                 <div class="row col-md mb-3 justify-content-center">
                     <div class="card" style="width: 18rem">
-                        <img src="<?= base_url() ?>/assets/img/st,small,507x507-pad,600x600,f8f8f8.jpg" class="card-img-top" alt="Status 2" />
+                        <img src="https://pashalovarian.net/wp-content/uploads/2018/03/ms-koizumi-loves-ramen-noodles-8668-1.jpg" class="card-img-top" alt="Status 2" />
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="row col-md mb-3 justify-content-center">
                     <div class="card" style="width: 18rem">
-                        <img src="<?= base_url() ?>/assets/img/3.jpg" class="card-img-top" alt="Status  3" />
+                        <img src="https://cdn.worldcosplay.net/53721/hrjmdjfzejhadlhzyfaxyihxokxyhfsbmsmdfpqa-740.jpg" class="card-img-top" alt="Status  3" />
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
