@@ -44,7 +44,7 @@
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center -5">
-        <img src="https://goodsrepublic.com/media/binary/004/092/290/4092290.jpg.l_thumbnail.webp" alt="Paimon" width="200" class="rounded-circle img-thumbnail border-5 rounded-circle" />
+        <img src="https://goodsrepublic.com/media/binary/004/092/290/4092290.jpg.l_thumbnail.webp" alt="Paimon" class="rounded-circle img-cover rounded-circle border border-primary" />
         <h1 class="display-4">Hello,welcome to Isekai Rasturant</h1>
         <p class="lead">Best Food Grade | Good to Go</p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
