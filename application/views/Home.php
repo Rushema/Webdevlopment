@@ -16,7 +16,7 @@
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-danger shadow-sm fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">Playground Isekai Yokai</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,13 +28,8 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Status</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Me</a>
+                        <a class="nav-link" href="#">Log in</a>
+
                     </li>
                 </ul>
             </div>
@@ -43,30 +38,30 @@
     <!-- End Navbar -->
 
     <!-- Jumbotron -->
-    <section class="jumbotron text-center -5">
-        <img src="https://goodsrepublic.com/media/binary/004/092/290/4092290.jpg.l_thumbnail.webp" alt="Paimon" class="rounded-circle img-cover rounded-circle border border-primary" />
-        <h1 class="display-4">Hello,welcome to Isekai Rasturant</h1>
-        <p class="lead">Best Food Grade | Good to Go</p>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+    <section class="jumbotron text-center mb-5">
+        <img style="object-fit: cover; width: 200px; height: 200px" src="https://media.discordapp.net/attachments/1072498514225012786/1072512023021223976/IMG_20220812_161904.jpg?width=503&height=671" alt="Paimon" class="rounded-circle img-cover rounded-circle border border-primary" />
+        <h1 class="display-4">Hello, my name is Mahesha S.K</h1>
+        <p class="lead">Webmaster | Programmer</p>
+        <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#f84d4d" fill-opacity="1" d="M0,160L80,144C160,128,320,96,480,117.3C640,139,800,213,960,213.3C1120,213,1280,139,1360,101.3L1440,64L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
-        </svg>
+        </svg> -->
     </section>
     <!-- End Jumbotron -->
 
     <!-- About -->
-    <section id="about">
+    <section id="about" class="mt-5">
         <div class="container">
             <div class="row text-center mb-3">
                 <div class="col">
-                    <h2>About Me</h2>
+                    <h2>Tentang saya</h2>
                 </div>
             </div>
             <div class="row justify-content-center fs-5 text-center">
                 <div class="col-md-4">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eos error obcaecati dolorem iusto eaque eveniet ipsum possimus numquam ex.</p>
+                    <p>Ohayōgozaimasu. Watashi wa jibun jishin o shōkai suru koto ga dekimasu. Watashi no seishiki meishō wa Mahesha S.K, Erlin to yobu koto ga dekimasu. Watashi wa 1993-nen 2 tsuki 18-nichi ni uma retanode, watashi wa genzai 22-saidesu. Watashi wa ryōshin to issho ni kotagēte ni sunde imashitaga, ima watashi wa gakkō o tsudzukeru tame ni Higashi Jawa-shū Surabaya no kishukusha ni sunde imasu. Watashi no shumi wa uta to shippitsudesu. Watashi no mokuhyō wa eigo no sensei ni naru kotodesu.</p>
                 </div>
                 <div class="col-md-4">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia adipisci labore esse quaerat corrupti reprehenderit voluptatem, aperiam optio aliquam assumenda est nobis, consectetur, rerum praesentium.</p>
+                    <img style="width: 240px; height: 360px; object-fit: cover; border-radius: 20px" src="https://assets.change.org/photos/2/vb/zx/AuVBZXzFpYBEIlH-400x400-noPad.jpg?1524116115" alt="">
                 </div>
             </div>
         </div>
@@ -157,7 +152,7 @@
 
     <!-- footer -->
     <footer class="bg-danger text-white text-center">
-        <p>Created by Rusha <a href="https://getbootstrap.com/" class="text-white fw-bold">Powered by Boostrap 5</a></p>
+        <div>Created by Rusha <a href="https://getbootstrap.com/" class="text-white fw-bold">Powered by Boostrap 5</a></div>
     </footer>
     <!-- End Footer -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
