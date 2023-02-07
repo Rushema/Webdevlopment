@@ -58,10 +58,11 @@
             </div>
             <div class="row justify-content-center fs-5 text-center">
                 <div class="col-md-4">
-                    <p>Ohayōgozaimasu. Watashi wa jibun jishin o shōkai suru koto ga dekimasu. Watashi no seishiki meishō wa Mahesha S.K, Erlin to yobu koto ga dekimasu. Watashi wa 1993-nen 2 tsuki 18-nichi ni uma retanode, watashi wa genzai 22-saidesu. Watashi wa ryōshin to issho ni kotagēte ni sunde imashitaga, ima watashi wa gakkō o tsudzukeru tame ni Higashi Jawa-shū Surabaya no kishukusha ni sunde imasu. Watashi no shumi wa uta to shippitsudesu. Watashi no mokuhyō wa eigo no sensei ni naru kotodesu.</p>
+                    <p>Nama saya Mahesha Satria Kurunanda Tinggal di Kalimantan Timur , Bontang Utara.
+                    </p>
                 </div>
                 <div class="col-md-4">
-                    <img style="width: 240px; height: 360px; object-fit: cover; border-radius: 20px" src="https://assets.change.org/photos/2/vb/zx/AuVBZXzFpYBEIlH-400x400-noPad.jpg?1524116115" alt="">
+                    <img style="width: 240px; height: 360px; object-fit: cover; border-radius: 20px" src="https://media.discordapp.net/attachments/1072498514225012786/1072516444828475402/FB_IMG_1668829365663.jpg?width=610&height=671" alt="">
                 </div>
             </div>
         </div>
@@ -77,7 +78,7 @@
         <div class="container">
             <div class="row text-center mb-3">
                 <div class="col">
-                    <h2>Status</h2>
+                    <h2 class="bg-white pt-1 pb-1 text-danger" style="border-radius: 20px">Hobi</h2>
                 </div>
             </div>
             <div class="row justify-content-center">
