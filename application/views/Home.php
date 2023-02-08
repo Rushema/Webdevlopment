@@ -39,7 +39,7 @@
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center mb-5">
-        <img style="object-fit: cover; width: 200px; height: 200px;" class="rounded-circle" src="<?= base_url() ?>assets/img/4.jpg" />
+        <img style="object-fit: cover; width: 200px; height: 200px;" class="rounded-circle" src="<?= base_url() ?>assets/img/profile.jpg" />
         <h1 class="display-4">Hello, my name is Mahesha S.K</h1>
         <p class="lead">Webmaster | Programmer</p>
         <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -82,7 +82,7 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="row col-md mb-3 justify-content-center">
+                <div class="col-md mb-3 justify-content-center">
                     <div class="bg-white p-2" style="border-radius: 20px">
                         <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row col-md mb-3 justify-content-center">
+                <div class="col-md mb-3 justify-content-center">
                     <div class="bg-white p-2" style="border-radius: 20px">
                         <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
@@ -98,7 +98,23 @@
                         </div>
                     </div>
                 </div>
-                <div class="row col-md mb-3 justify-content-center">
+                <div class="col-md mb-3 justify-content-center">
+                    <div class="bg-white p-2" style="border-radius: 20px">
+                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md mb-3 justify-content-center">
+                    <div class="bg-white p-2" style="border-radius: 20px">
+                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="row col-md mb-3 justify-content-center">
                     <div class="card" style="width: 18rem">
                         <img src="https://pashalovarian.net/wp-content/uploads/2018/03/ms-koizumi-loves-ramen-noodles-8668-1.jpg" class="card-img-top" alt="Status 2" />
                         <div class="card-body">
@@ -113,7 +129,8 @@
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
+                <div class="text-white text-decoration-underline font-semibold">Lihat selengkapnya</div>
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
