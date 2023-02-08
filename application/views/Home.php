@@ -39,7 +39,7 @@
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center mb-5">
-        <img style="object-fit: cover; width: 200px; height: 200px" src="https://media.discordapp.net/attachments/1072498514225012786/1072512023021223976/IMG_20220812_161904.jpg?width=503&height=671" alt="Paimon" class="rounded-circle img-cover rounded-circle border border-primary" />
+        <img style="object-fit: cover; width: 200px; height: 200px;" class="rounded-circle" src="<?= base_url() ?>assets/img/4.jpg" />
         <h1 class="display-4">Hello, my name is Mahesha S.K</h1>
         <p class="lead">Webmaster | Programmer</p>
         <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -62,7 +62,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                    <img style="width: 240px; height: 360px; object-fit: cover; border-radius: 20px" src="https://media.discordapp.net/attachments/1072498514225012786/1072516444828475402/FB_IMG_1668829365663.jpg?width=610&height=671" alt="">
+                    <img style="width: 240px; height: 240px; object-fit: cover; border-radius: 20px" src="<?= base_url() ?>assets/img/1.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -83,8 +83,16 @@
             </div>
             <div class="row justify-content-center">
                 <div class="row col-md mb-3 justify-content-center">
-                    <div class="card" style="width: 18rem">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                    <div class="bg-white p-2" style="border-radius: 20px">
+                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row col-md mb-3 justify-content-center">
+                    <div class="bg-white p-2" style="border-radius: 20px">
+                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -118,30 +126,24 @@
     <!-- Contact -->
     <section id="contact">
         <div class="container">
-            <div class="row text-center mb-3">
-                <div class="col-md-8">
-                    <h2>Contact Me</h2>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-md-6">
-                    <form>
-                        <div class="mb-3">
-                            <label for="Name" class="form-label">Nama Lengkap</label>
-                            <input type="text" class="form-control" id="name" aria-describedby="name" />
-                            <div id="name" class="form-text">We'll never share your email with anyone else.</div>
-                        </div>
-                        <div class="mb-3">
-                            <label for="email" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="email" aria-describedby="email" />
-                        </div>
-                        <div class="mb-3">
-                            <label for="pesan" class="form-label">Pesan</label>
-                            <textarea class="form-control" id="pesan" rows="3"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary">submit</button>
-                    </form>
-                </div>
+            <div class="col-6 m-auto">
+                <h2 class="text-center">Contact Me</h2>
+                <form>
+                    <div class="mb-3">
+                        <label for="Name" class="form-label">Nama Lengkap</label>
+                        <input type="text" class="form-control" id="name" aria-describedby="name" />
+                        <div id="name" class="form-text">We'll never share your email with anyone else.</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" aria-describedby="email" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="pesan" class="form-label">Pesan</label>
+                        <textarea class="form-control" id="pesan" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">submit</button>
+                </form>
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
