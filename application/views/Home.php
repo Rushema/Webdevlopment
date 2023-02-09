@@ -40,7 +40,7 @@
     <!-- Jumbotron -->
     <section class="jumbotron text-center mb-5">
         <img style="object-fit: cover; width: 200px; height: 200px;" class="rounded-circle" src="<?= base_url() ?>assets/img/profile.jpg" />
-        <h1 class="display-4">Hello, my name is Mahesha S.K</h1>
+        <h1 class="display-4">Halo, nama saya Mahesha S.K</h1>
         <p class="lead">Webmaster | Programmer</p>
         <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#f84d4d" fill-opacity="1" d="M0,160L80,144C160,128,320,96,480,117.3C640,139,800,213,960,213.3C1120,213,1280,139,1360,101.3L1440,64L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
@@ -78,39 +78,43 @@
         <div class="container">
             <div class="row text-center mb-3">
                 <div class="col">
-                    <h2 class="bg-white pt-1 pb-1 text-danger" style="border-radius: 20px">Hobi</h2>
+                    <h2 class="bg-white p-2 text-danger" style="border-radius: 10px">Blog</h2>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-md mb-3 justify-content-center">
-                    <div class="bg-white p-2" style="border-radius: 20px">
-                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                    <div class="bg-white p-2" style="border-radius: 10px">
+                        <img class="w-100" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h2 class="fs-5">Jalan-jalan bareng Koizumi</h2>
+                            <p class="card-text fs-6">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md mb-3 justify-content-center">
-                    <div class="bg-white p-2" style="border-radius: 20px">
-                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                    <div class="bg-white p-2" style="border-radius: 10px">
+                        <img class="w-100" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h2 class="fs-5">Jalan-jalan bareng Koizumi</h2>
+                            <p class="card-text fs-6">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md mb-3 justify-content-center">
-                    <div class="bg-white p-2" style="border-radius: 20px">
-                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                    <div class="bg-white p-2" style="border-radius: 10px">
+                        <img class="w-100" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h2 class="fs-5">Jalan-jalan bareng Koizumi</h2>
+                            <p class="card-text fs-6">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md mb-3 justify-content-center">
-                    <div class="bg-white p-2" style="border-radius: 20px">
-                        <img class="w-100" style="border-radius: 20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
+                    <div class="bg-white p-2" style="border-radius: 10px">
+                        <img class="w-100" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfntIO6vdSMYI05AxsZfwbvJ4twz0fmwl1g&usqp=CAU" class="card-img-top" alt="Status 1" />
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h2 class="fs-5">Jalan-jalan bareng Koizumi</h2>
+                            <p class="card-text fs-6">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
@@ -130,7 +134,7 @@
                         </div>
                     </div>
                 </div> -->
-                <div class="text-white text-decoration-underline font-semibold">Lihat selengkapnya</div>
+                <div class="text-white text-decoration-underline" style="cursor: pointer;">Lihat selengkapnya</div>
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -144,7 +148,7 @@
     <section id="contact">
         <div class="container">
             <div class="col-6 m-auto">
-                <h2 class="text-center">Contact Me</h2>
+                <h2 class="text-center">Kontak saya</h2>
                 <form>
                     <div class="mb-3">
                         <label for="Name" class="form-label">Nama Lengkap</label>
