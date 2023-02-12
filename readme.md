@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Rushema/Webdevlopment">
-    <img src="https://pbs.twimg.com/profile_images/1511138361896935424/B1AfSM3I_400x400.jpg" alt="Eviee" width="200" height="200">
+    <img src="https://pbs.twimg.com/profile_images/1511138361896935424/B1AfSM3I_400x400.jpg" alt="Eviee" width="200" height="200" style="border-radius: 50%;">
   </a>
 
   <h2 align="center"><b>Webdevlopment</b></h2>
