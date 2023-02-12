@@ -1,70 +1,31 @@
-###################
-What is CodeIgniter
-###################
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+<br />
+<p align="center">
+  <a href="https://github.com/Rushema/Webdevlopment">
+    <img src="https://pbs.twimg.com/profile_images/1511138361896935424/B1AfSM3I_400x400.jpg" alt="Eviee" width="200" height="200">
+  </a>
 
-*******************
-Release Information
-*******************
+  <h2 align="center"><b>Webdevlopment</b></h2>
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+  <p align="center">Bantuan diterima, ada beberapa masalah keterampilan jadi jangan menilai saya  
+      <img src="https://cdn.discordapp.com/emojis/999338712255180921.webp?size=28&quality=lossless">
+    <br />
+    <br />
+    <a href="https://github.com/Rushema/Webdevlopment/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Rushema/Webdevlopment/issues">Request Feature</a>
+  </p>
+</p>
 
-**************************
-Changelog and New Features
-**************************
+<!-- ABOUT THE PROJECT -->
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushema&repo=Webdevlopment&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/Rushema/Webdevlopment)
 
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+## 🔐 》License
+Distributed under the MIT License. See [`LICENSE`](https://github.com/Rushema/Webdevlopment/blob/main/license.txt) for more information.
