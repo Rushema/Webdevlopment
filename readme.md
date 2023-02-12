@@ -24,8 +24,21 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
+## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushema&repo=Webdevlopment&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/Rushema/Webdevlopment)
 
 ## 🔐 》License
+
 Distributed under the MIT License. See [`LICENSE`](https://github.com/Rushema/Webdevlopment/blob/main/license.txt) for more information.
+
+[contributors-shield]: https://img.shields.io/github/contributors/Rushema/Webdevlopment.svg?style=for-the-badge
+[contributors-url]: https://github.com/Rushema/Webdevlopment/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Rushema/Webdevlopment.svg?style=for-the-badge
+[forks-url]: https://github.com/Rushema/Webdevlopment/network/members
+[stars-shield]: https://img.shields.io/github/stars/Rushema/Webdevlopment.svg?style=for-the-badge
+[stars-url]: https://github.com/Rushema/Webdevlopment/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Rushema/Webdevlopment.svg?style=for-the-badge
+[issues-url]: https://github.com/Rushema/Webdevlopment/issues
+[license-shield]: https://img.shields.io/github/license/Rushema/Webdevlopment.svg?style=for-the-badge
+[license-url]: https://github.com/Rushema/Webdevlopment/blob/master/LICENSE
