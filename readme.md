@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Rushema/Webdevlopment">
-    <img src="https://pbs.twimg.com/profile_images/1511138361896935424/B1AfSM3I_400x400.jpg" alt="Eviee" width="200" height="200" style="border-radius: 50%;">
+    <img src="https://pbs.twimg.com/profile_images/1511138361896935424/B1AfSM3I_400x400.jpg" alt="Eviee" width="200" height="200">
   </a>
 
   <h2 align="center"><b>Webdevlopment</b></h2>
@@ -27,6 +27,13 @@
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushema&repo=Webdevlopment&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/Rushema/Webdevlopment)
+
+## ✨》Credits
+<a href="https://github.com/Rushema/Webdevlopment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rushema/Webdevlopment" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## 🔐 》License
 
