@@ -28,7 +28,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rushema&repo=Webdevlopment&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/Rushema/Webdevlopment)
 
-## ✨》Credits
+## ✨》Contributors
 <a href="https://github.com/Rushema/Webdevlopment/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rushema/Webdevlopment" />
 </a>
