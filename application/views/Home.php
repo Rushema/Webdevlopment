@@ -134,7 +134,7 @@
                         </div>
                     </div>
                 </div> -->
-                <div class="text-white text-decoration-underline" style="cursor: pointer;">Lihat selengkapnya</div>
+                <div class="view-more text-white text-decoration-underline" style="cursor: pointer;">Lihat selengkapnya</div>
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -161,31 +161,30 @@
                         </svg>
                     </div>
                 </div>
-                <form class="send-whatsapp closed">
+                <div class="send-whatsapp closed">
                     <div class="mb-3">
                         <label for="Name" class="form-label">Nama Anda</label>
-                        <input type="text" class="form-control" id="name" aria-describedby="name" />
-                        <div id="name" class="form-text">We'll never share your email with anyone else.</div>
+                        <input type="text" class="form-control" id="name" aria-describedby="name" placeholder="Masukkan nama Anda">
                     </div>
                     <div class="mb-3">
                         <label for="pesan" class="form-label">Pesan</label>
-                        <textarea class="form-control" id="pesan" rows="3"></textarea>
+                        <textarea class="form-control" id="pesan" rows="3" placeholder="Apa isi pesan Anda?"></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Kirim pesan</button>
-                </form>
-                <form class="send-email closed">
+                </div>
+                <form action="<?= base_url() ?>/send_email" class="send-email closed">
                     <div class="mb-3">
                         <label for="Name" class="form-label">Nama Anda</label>
-                        <input type="text" class="form-control" id="name" aria-describedby="name" />
-                        <div id="name" class="form-text">We'll never share your email with anyone else.</div>
+                        <input type="text" class="form-control" id="name" aria-describedby="name" placeholder="Masukkan nama Anda">
                     </div>
                     <div class="mb-3">
                         <label for="Name" class="form-label">Email Anda</label>
-                        <input type="text" class="form-control" id="name" aria-describedby="name" />
+                        <input type="text" class="form-control" id="name" aria-describedby="name" placeholder="Masukkan alamat Email Anda">
+                        <div id="name" class="form-text">Alamat E-mail anda tidak akan dibagikan kepada siapapun.</div>
                     </div>
                     <div class="mb-3">
                         <label for="pesan" class="form-label">Pesan</label>
-                        <textarea class="form-control" id="pesan" rows="3"></textarea>
+                        <textarea class="form-control" id="pesan" rows="3" placeholder="Apa isi pesan Anda?"></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Kirim pesan</button>
                 </form>
